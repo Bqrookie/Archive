@@ -44,6 +44,7 @@ def main():
     localAddr = ('', 6666)
     tcp_server.bind(localAddr)
 
+    tcp_server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
     # 主动监听
     tcp_server.listen(128)
 
