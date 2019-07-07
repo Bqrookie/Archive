@@ -1,5 +1,7 @@
 # ncmtomp3
 
+### 【直接把ncm文件选中拖到这个exe也行，刚刚看到的，文件太多可以用bat】
+
 1.下载ncmdump-windows-amd64.exe
 	[下载链接1](https://github.com/yoki123/ncmdump/releases) | [下载链接2](./ncmdump-windows-amd64.exe)	
 
