@@ -2,6 +2,7 @@
 
 1.下载ncmdump-windows-amd64.exe
 	[下载链接1](https://github.com/yoki123/ncmdump/releases) | [下载链接2](./ncmdump-windows-amd64.exe)	
+
 ---
 **链接1为软件作者，代码开源的！可以自己去，本人只是利用脚本批量操作而已**
 
